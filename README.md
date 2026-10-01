@@ -17,8 +17,6 @@ Program pengolahan deret angka ini mencakup elemen-elemen berikut:
 ## 📷 Dokumentasi & Bukti Running Program
 
 ### 1. Flowchart Program
-*(Diagram alir / flowchart akan segera diunggah)*
-<!-- Nanti kalau gambar flowchart sudah ada, bisa di-upload ke repo lalu dipajang dengan format: -->
 ![Flowchart Program](./Flowchart.drawio.png)
 
 ### 2. Hasil Running / Output Program di Terminal
