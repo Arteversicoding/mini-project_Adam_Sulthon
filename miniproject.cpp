@@ -29,7 +29,7 @@
         //INPUT OUTPUT & PERULANGAN
         cout << "========================================\n";
         cout << "   PROGRAM ANALISIS DERET NILAI ANGKA   \n";
-        cout << "========================================\n";
+        cout << "========================== ==============\n";
         cout << "Masukkan jumlah data deret (maks 100): ";
         cin >> jumlahData; // Input
 
