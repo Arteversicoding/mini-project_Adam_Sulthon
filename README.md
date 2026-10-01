@@ -19,7 +19,7 @@ Program pengolahan deret angka ini mencakup elemen-elemen berikut:
 ### 1. Flowchart Program
 *(Diagram alir / flowchart akan segera diunggah)*
 <!-- Nanti kalau gambar flowchart sudah ada, bisa di-upload ke repo lalu dipajang dengan format: -->
-<!-- ![Flowchart Program](./nama_file_flowchart.png) -->
+![Flowchart Program](./Flowchart.drawio.png)
 
 ### 2. Hasil Running / Output Program di Terminal
 ![Screenshot Output Terminal](./Dokumentasi%20%26%20Bukti%20Running%20Program.png)
